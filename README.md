@@ -3,7 +3,7 @@
 
 ### Instructions:
 
-1. [Download the modpack from github](https://github.com/THEMrBox/HouseOfDogoModPack/archive/refs/heads/main.zip)
+1. [Download the modpack](https://github.com/THEMrBox/HouseOfDogoModPack/archive/refs/heads/main.zip)
 2. Extract the .zip file to desktop
 3. Start Minecraft
 ![](https://imgur.com/AlAxEGN.png)
