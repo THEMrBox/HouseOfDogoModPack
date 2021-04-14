@@ -5,5 +5,5 @@ Instructions:
 
 - [Download the modpack from github](https://github.com/THEMrBox/HouseOfDogoModPack/archive/refs/heads/main.zip)
 - Extract the .zip file to desktop
-- Start Minecraft ![alt text](https://imgur.com/a/7btcW9v.png)
+- Start Minecraft ![alt text](//imgur.com/a/7btcW9v.png)
 - ✨Magic ✨
